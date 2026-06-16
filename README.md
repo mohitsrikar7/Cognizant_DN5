@@ -1,247 +1,175 @@
 # Cognizant Digital Nurture 5.0 (DN5) Learning Journey
 
-Welcome to the Cognizant Digital Nurture 5.0 (DN5) comprehensive learning repository. This repository contains two major learning tracks designed to build foundational and advanced technical skills.
+Welcome to the Cognizant Digital Nurture 5.0 learning repository. This repo is organized into two tracks that build from core web and programming fundamentals to advanced enterprise application development.
 
-## 📚 Repository Overview
+## Repository Overview
 
-This repository is structured to support a complete learning journey covering foundational technologies through advanced enterprise-level concepts. Each topic includes structured notes, hands-on exercises, and practical assignments.
+The repository is split into:
+- `DN5-Upskilling` for foundation topics
+- `DN5-DeepSkilling` for advanced concepts and specialization modules
 
----
-
-## 🎯 Learning Tracks
-
-### 1. **DN5-Upskilling** 
-Foundation Track - Building Core Technical Competencies
-
-The upskilling track focuses on establishing strong fundamentals in web development, database management, and object-oriented programming.
-
-**Modules Covered:**
-- **HTML5** - Semantic Web Development
-- **CSS3** - Modern Styling & Responsive Design
-- **JavaScript** - Core Language & DOM Manipulation
-- **SQL** - Database Design & Query Optimization
-- **C#** - Object-Oriented Programming Fundamentals
+Each module is intended to hold notes, practice work, assignments, and project material.
 
 ---
 
-### 2. **DN5-DeepSkilling**
-Advanced Track - Specialization & Enterprise Patterns
+## Learning Tracks
 
-The deep skilling track builds upon foundations to cover enterprise architecture, design patterns, and advanced frameworks.
+### 1. DN5-Upskilling
+Foundation track focused on core technical skills.
 
-**Modules Covered:**
-- **Design Patterns** - Gang of Four & Enterprise Patterns
-- **Data Structures & Algorithms (DSA)** - Algorithm Optimization & Complexity Analysis
-- **Advanced SQL** - Performance Tuning & Complex Queries
-- **Entity Framework Core** - ORM & Database Mapping
-- **ASP.NET Core Web API** - RESTful API Development
-- **Microservices** - Distributed Architecture Patterns
-- **Angular** - Modern Frontend Framework
-- **Docker** - Containerization & Deployment
-- **Git & CI/CD** - Version Control & Automation Pipelines
+Modules covered:
+- HTML5
+- CSS3
+- JavaScript
+- SQL
+- C#
+
+### 2. DN5-DeepSkilling
+Advanced track focused on architecture, frameworks, and enterprise patterns.
+
+Modules covered:
+- Design Patterns
+- Data Structures and Algorithms
+- Advanced SQL
+- Entity Framework Core
+- ASP.NET Core Web API
+- Microservices
+- React
+- Docker
+- Git and CI/CD
 
 ---
 
-## 📖 Repository Structure
+## Repository Structure
 
-```
-Cognizant-DN5/
-├── README.md                          (This file)
-│
-├── DN5-Upskilling/                   (Foundation Track)
-│   ├── README.md
-│   ├── HTML5/
-│   │   ├── Notes.md
-│   │   ├── HandsOn/
-│   │   ├── Assignments/
-│   │   └── MiniProject/
-│   ├── CSS3/
-│   ├── JavaScript/
-│   ├── SQL/
-│   └── CSharp/
-│
-└── DN5-DeepSkilling/                 (Advanced Track)
-    ├── README.md
-    ├── DesignPatterns/
-    ├── DSA/
-    ├── AdvancedSQL/
-    ├── EntityFrameworkCore/
-    ├── ASPNetCoreWebAPI/
-    ├── Microservices/
-    ├── Angular/
-    │   ├── Notes.md
-    │   ├── HandsOn/
-    │   ├── Components/
-    │   ├── Services/
-    │   └── MiniProjects/
-    ├── Docker/
-    └── Git-CICD/
+```text
+Cognizant_DN5/
+|-- README.md
+|-- DN5-Upskilling/
+|   |-- README.md
+|   |-- HTML5/
+|   |-- CSS3/
+|   |-- JavaScript/
+|   |-- SQL/
+|   `-- CSharp/
+`-- DN5-DeepSkilling/
+    |-- README.md
+    |-- DesignPatterns/
+    |-- DSA/
+    |-- AdvancedSQL/
+    |-- EntityFrameworkCore/
+    |-- ASPNetCoreWebAPI/
+    |-- Microservices/
+    |-- React/
+    |-- Docker/
+    `-- Git-CICD/
 ```
 
 ---
 
-## 📊 Progress Tracker
+## Progress Tracker
 
 | Track | Module | Status | Completion Date | Notes |
 |-------|--------|--------|-----------------|-------|
-| **Upskilling** |||||
-| | HTML5 | Not Started | - | - |
-| | CSS3 | Not Started | - | - |
-| | JavaScript | Not Started | - | - |
-| | SQL | Not Started | - | - |
-| | C# | Not Started | - | - |
-| **DeepSkilling** |||||
-| | Design Patterns | Not Started | - | - |
-| | DSA | Not Started | - | - |
-| | Advanced SQL | Not Started | - | - |
-| | Entity Framework Core | Not Started | - | - |
-| | ASP.NET Core Web API | Not Started | - | - |
-| | Microservices | Not Started | - | - |
-| | Angular | Not Started | - | - |
-| | Docker | Not Started | - | - |
-| | Git & CI/CD | Not Started | - | - |
+| Upskilling | HTML5 | Not Started | - | - |
+| Upskilling | CSS3 | Not Started | - | - |
+| Upskilling | JavaScript | Not Started | - | - |
+| Upskilling | SQL | Not Started | - | - |
+| Upskilling | C# | Not Started | - | - |
+| DeepSkilling | Design Patterns | Not Started | - | - |
+| DeepSkilling | DSA | Not Started | - | - |
+| DeepSkilling | Advanced SQL | Not Started | - | - |
+| DeepSkilling | Entity Framework Core | Not Started | - | - |
+| DeepSkilling | ASP.NET Core Web API | Not Started | - | - |
+| DeepSkilling | Microservices | Not Started | - | - |
+| DeepSkilling | React | Not Started | - | - |
+| DeepSkilling | Docker | Not Started | - | - |
+| DeepSkilling | Git and CI/CD | Not Started | - | - |
 
 ---
 
-## 📝 How to Use This Repository
+## How To Use This Repository
 
-### For Each Module:
-
-1. **Start with Notes.md**
-   - Read through the conceptual overview
-   - Understand core concepts and learning objectives
-   - Review references and external resources
-
-2. **Complete HandsOn Exercises**
-   - Practice coding with guided exercises
-   - Follow step-by-step tutorials
-   - Experiment and build confidence
-
-3. **Work on Assignments**
-   - Apply learned concepts to real-world scenarios
-   - Develop problem-solving skills
-   - Create portfolio-worthy projects
-
-4. **Track Your Progress**
-   - Update the progress tracker in this README
-   - Document what you've learned
-   - Note challenges and solutions
+For each module:
+1. Start with `Notes.md`.
+2. Complete hands-on practice if available.
+3. Work through assignments or mini-projects.
+4. Update progress as you complete topics.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies and Tools
 
-### **Upskilling Track Technologies**
+### Upskilling Track
 - HTML5, CSS3, JavaScript
-- SQL (T-SQL / MySQL)
-- C# & .NET Framework basics
+- SQL
+- C# and .NET basics
 
-### **DeepSkilling Track Technologies**
-- C# & .NET / .NET Core
+### DeepSkilling Track
+- C# and .NET
 - ASP.NET Core Web API
 - Entity Framework Core
-- Angular & Node.js
-- Docker & Containerization
-- Git & GitHub / GitLab
-- CI/CD Pipelines (Azure DevOps, GitHub Actions)
+- React and Node.js
+- Docker
+- GitHub and CI/CD pipelines
 
-### **Development Tools**
-- Visual Studio 2022 / VS Code
-- SQL Server Management Studio / MySQL Workbench
-- Postman / Thunder Client
+### Development Tools
+- Visual Studio 2022 or VS Code
+- SQL Server Management Studio or MySQL Workbench
+- Postman or Thunder Client
 - Docker Desktop
-- Git & GitHub Desktop
+- Git and GitHub
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
-### Recommended External Resources:
-
-**Web Development:**
+### Web Development
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [W3Schools](https://www.w3schools.com/)
 - [CSS-Tricks](https://css-tricks.com/)
 
-**C# & .NET:**
-- [Microsoft Docs - C#](https://docs.microsoft.com/dotnet/csharp/)
-- [Microsoft Docs - .NET](https://docs.microsoft.com/dotnet/)
-- [C# Player's Guide](https://csharpplayersguide.com/)
+### C# and .NET
+- [Microsoft Docs - C#](https://learn.microsoft.com/dotnet/csharp/)
+- [Microsoft Docs - .NET](https://learn.microsoft.com/dotnet/)
 
-**Database:**
+### Database
 - [SQL Tutorial](https://www.sqltutorial.org/)
 - [LeetCode Database Problems](https://leetcode.com/problemset/database/)
 
-**Design Patterns:**
+### Design Patterns
 - [Refactoring Guru - Design Patterns](https://refactoring.guru/design-patterns)
-- [Microsoft Docs - Design Patterns](https://docs.microsoft.com/dotnet/architecture/modern-web-apps-azure/)
+- [Microsoft Architecture Guides](https://learn.microsoft.com/dotnet/architecture/)
 
-**Angular:**
-- [Angular Official Docs](https://angular.io/docs)
-- [Angular University](https://angular-university.io/)
-
----
-
-## 🎓 Success Criteria
-
-- ✅ Complete all module notes
-- ✅ Finish all hands-on exercises
-- ✅ Submit all assignments with quality code
-- ✅ Build mini-projects demonstrating mastery
-- ✅ Maintain clean, documented code
-- ✅ Contribute to learning community
+### React
+- [React Official Docs](https://react.dev/)
+- [React Learn](https://react.dev/learn)
 
 ---
 
-## 📌 Quick Start
+## Quick Start
 
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/Purnima-sai/Cognizant-DN5.git
-   cd Cognizant-DN5
-   ```
+```bash
+git clone https://github.com/mohitsrikar7/Cognizant_DN5.git
+cd Cognizant_DN5
+```
 
-2. **Choose your starting track:**
-   - Start with **DN5-Upskilling** if you're new to web development
-   - Start with **DN5-DeepSkilling** if you have foundational knowledge
-
-3. **Pick a module and start with its README.md**
-
-4. **Follow the learning path:** Notes → HandsOn → Assignments
+Choose either the upskilling or deep-skilling track, then begin with the relevant `README.md` and `Notes.md` files.
 
 ---
 
-## 🤝 Contributing
+## Success Criteria
 
-Feel free to:
-- Add additional resources to the Notes.md files
-- Share solutions and best practices
-- Help others with questions in assignments
-- Suggest improvements to the learning structure
-
----
-
-## 📞 Support & Questions
-
-For questions or clarifications:
-- Review the module's Notes.md and References section
-- Check the HandsOn examples
-- Refer to external resources linked in this README
-- Consult with peers and mentors
+- Complete all module notes
+- Finish hands-on exercises
+- Submit assignments with clean code
+- Build mini-projects that demonstrate understanding
+- Maintain documented and organized work
 
 ---
 
-## 📜 License
+## License
 
-This learning material is created for educational purposes within the Cognizant Digital Nurture program.
-
----
-
-## 🎉 Let's Begin Your Learning Journey!
-
-**Remember:** 
-> *"The expert in anything was once a beginner." - Helen Hayes*
-
-Start small, be consistent, and celebrate your progress. Each module completed is a step towards mastery.
+This learning material is maintained for educational purposes within the Cognizant Digital Nurture program.
 
 **Last Updated:** June 2026

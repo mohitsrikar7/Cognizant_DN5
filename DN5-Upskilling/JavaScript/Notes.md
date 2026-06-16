@@ -343,7 +343,7 @@ _________________________________
 
 **Next Steps:**
 - Move to SQL or continue with frameworks
-- Learn JavaScript frameworks (React, Vue, Angular)
+- Learn JavaScript frameworks (React, Vue, Svelte)
 
 ---
 

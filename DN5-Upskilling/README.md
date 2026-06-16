@@ -159,7 +159,7 @@ Once you complete this track:
 1. You'll be ready for **DN5-DeepSkilling** track
 2. You can build full-stack applications
 3. You can pursue further specialization in:
-   - Web Development (more JavaScript/Angular)
+   - Web Development (more JavaScript/React)
    - Backend Development (ASP.NET Core)
    - Database Administration (Advanced SQL)
    - Full-Stack Development (All technologies)
